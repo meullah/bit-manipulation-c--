@@ -3,8 +3,6 @@
 ### Table of Contents
 - [Overview](#overview)
 - [Bit Streams](#homework-1-a-palindromes)
-  - [Getting Started](#getting-started)
-  - [Submission](#submission)
 
 ### Overview
 In this homework, you will design a program that creates an 8-byte buffer capable of storing a 64-bit stream. You will be using bit manipulation techniques to achieve this.
